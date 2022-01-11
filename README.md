@@ -1,4 +1,4 @@
-# cancer-survivorship-smartcard
+# Cancer-survivorship-smartcard
 Demo for cancer survivorship care to improve life of quality for cancer survivors 
 
 # Numbers 
