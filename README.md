@@ -20,3 +20,14 @@ In 2019, 67% of survivors (10.3 million) have survived 5 years or more after dia
 ## Japan Survival Rate
 
 # Challenges
+
+
+
+# What is Cancer Survivorship Care ?
+
+
+# Digitalization of Health Record / Telemedicine 
+
+
+
+# Wrap-up
