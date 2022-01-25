@@ -21,13 +21,15 @@ In 2019, 67% of survivors (10.3 million) have survived 5 years or more after dia
 
 # Challenges
 
+## Inequality in healthcare for arginalized communities
 
-
+## 
 # What is Cancer Survivorship Care ?
 
 
 # Digitalization of Health Record / Telemedicine 
 
 
+# Pre-requirement 
 
 # Wrap-up
