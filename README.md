@@ -21,9 +21,11 @@ In 2019, 67% of survivors (10.3 million) have survived 5 years or more after dia
 
 # Challenges
 
-## Inequality in healthcare for marginalized communities
+## Disparities in accessing healthcare for marginalized communities
 
-## 
+### difinition of disarities for racial minority group 
+https://www.healthypeople.gov/2020/about/foundation-health-measures/Disparities
+
 # What is Cancer Survivorship Care ?
 
 
