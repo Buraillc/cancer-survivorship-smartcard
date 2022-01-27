@@ -32,6 +32,9 @@ https://www.healthypeople.gov/2020/about/foundation-health-measures/Disparities
 # Digitalization of Health Record / Telemedicine 
 
 
-# Pre-requirement 
+# Prerequisites
+### ReactJs /Typescript
+### Or 
+#### Docker 
 
 # Wrap-up
