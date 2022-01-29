@@ -29,9 +29,9 @@ https://www.healthypeople.gov/2020/about/foundation-health-measures/Disparities
 # What is Cancer Survivorship Care ?
 s
 # What is Cancer Survivorship Care 
-## workflow 
+## Workflow 
 
-## Digitalied workflow
+## Digitalized workflow
 
 
 # Digitalization of Health Record / Telemedicine 
