@@ -31,8 +31,7 @@ https://www.cdc.gov/media/releases/2019/p0905-racial-ethnic-disparities-pregnanc
 https://www.healthypeople.gov/2020/about/foundation-health-measures/Disparities
 
 # What is Cancer Survivorship Care ?
-s
-# What is Cancer Survivorship Care 
+
 ## Workflow 
 
 ## digitalizable workflow
