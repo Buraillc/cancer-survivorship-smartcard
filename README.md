@@ -21,7 +21,11 @@ In 2019, 67% of survivors (10.3 million) have survived 5 years or more after dia
 
 # Challenges
 
-## Disparities in accessing healthcare for marginalized communities
+## Disparities in accessing healthcare for marginalized communities like people of colour 
+### One example 
+#### Black, American Indian, and Alaska Native (AI/AN) women are two to three times more likely to die from pregnancy-related causes than white women
+https://www.cdc.gov/media/releases/2019/p0905-racial-ethnic-disparities-pregnancy-deaths.html#:~:text=Black%2C%20American%20Indian%2C%20and%20Alaska,and%20Mortality%20Weekly%20Report%20(MMWR)
+
 
 ### difinition of disarities for racial minority group 
 https://www.healthypeople.gov/2020/about/foundation-health-measures/Disparities
