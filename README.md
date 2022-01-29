@@ -27,6 +27,11 @@ In 2019, 67% of survivors (10.3 million) have survived 5 years or more after dia
 https://www.healthypeople.gov/2020/about/foundation-health-measures/Disparities
 
 # What is Cancer Survivorship Care ?
+s
+# What is Cancer Survivorship Care 
+## workflow 
+
+## Digitalied workflow
 
 
 # Digitalization of Health Record / Telemedicine 
