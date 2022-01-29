@@ -31,7 +31,7 @@ s
 # What is Cancer Survivorship Care 
 ## Workflow 
 
-## Digitalized workflow
+## digitalizable workflow
 
 
 # Digitalization of Health Record / Telemedicine 
