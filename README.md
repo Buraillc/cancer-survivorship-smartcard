@@ -42,7 +42,11 @@ https://www.healthypeople.gov/2020/about/foundation-health-measures/Disparities
 
 # Prerequisites
 ### ReactJs /Typescript
-### Or 
+
 ### Docker 
 
 # Wrap-up
+# Resource 
+
+https://www.oncolink.org/
+https://openhealthhub.org/
