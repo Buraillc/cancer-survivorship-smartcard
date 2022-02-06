@@ -4,6 +4,8 @@
   "description": "app for cancer survivorship care to improve QOL for cancer survivor. ",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -19,12 +21,21 @@
   "dependencies": {
     "@types/react": "^17.0.38",
     "@types/react-dom": "^17.0.11",
+    "bcryptjs": "^2.4.3",
     "dotenv": "^15.0.0",
+    "express": "^4.17.2",
     "express-jwt": "^6.1.0",
+    "express-session": "^1.17.2",
     "googleapis": "^92.0.0",
+    "jose": "^4.4.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.1.10",
     "n": "^8.0.2",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "reactjs": "^1.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
   }
 }
