@@ -42,7 +42,13 @@ https://www.healthypeople.gov/2020/about/foundation-health-measures/Disparities
 
 # Prerequisites
 ### ReactJs /Typescript
-### Or 
+
 ### Docker 
 
 # Wrap-up
+# Resource 
+
+### OncoLink https://www.oncolink.org/
+### Open Health Hub https://openhealthhub.org/
+### Future NHS https://future.nhs.uk
+### CDC https://www.cdc.gov/
