@@ -59,3 +59,4 @@ https://www.healthypeople.gov/2020/about/foundation-health-measures/Disparities
 ### Open Health Hub https://openhealthhub.org/
 ### Future NHS https://future.nhs.uk
 ### CDC https://www.cdc.gov/
+### FAITH https://www.h2020-faith.eu/partners/cancer-survivorship-ai-well-being/#:~:text=Over%20the%20course%20of%202021,early%20indicator%20feedback%20on%20it.
