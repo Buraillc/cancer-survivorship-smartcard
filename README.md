@@ -34,10 +34,17 @@ https://www.healthypeople.gov/2020/about/foundation-health-measures/Disparities
 
 ## Workflow 
 
-## digitalizable workflow
+
+
+## Automating workflow
+
+
 
 
 # Digitalization of Health Record / Telemedicine 
+
+
+
 
 
 # Prerequisites
